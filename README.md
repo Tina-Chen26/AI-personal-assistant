@@ -76,8 +76,6 @@ ssl._create_default_https_context = ssl._create_unverified_context
 - `schedule`: A lightweight job scheduling library for Python.
 - `threading`: Handles background tasks to ensure reminders run without blocking the main program.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For issues or suggestions, feel free to contact me through the GitHub repository's issue tracker or email.
